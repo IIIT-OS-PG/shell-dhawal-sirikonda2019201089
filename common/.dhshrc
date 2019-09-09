@@ -1,0 +1,7 @@
+PATH=/bin:/sbin:/usr/bin:/usr/sbin:/home/brucewayne/ll
+SHELL=dhsh
+PS1=blah-blah
+HOME=/common
+mp4=vlc
+cpp=gedit
+c=gedit
